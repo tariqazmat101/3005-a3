@@ -1,6 +1,6 @@
 # PostgreSQL CRUD Demo
 
-This project connects to a PostGres SQL DB and performs simple CRUD operations on a "student " table. 
+This project connects to a PostGres SQL DB and performs simple CRUD operations on a "student " table. The video will be located on my blog, @ https://tariqblog89.blogspot.com/2025/11/a3-sql.html
 ### How To Run:
 1. make sure PostgreSQL is running and a database named **schooldb** exists.
 2. export your connection info:
